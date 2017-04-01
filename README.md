@@ -1,3 +1,3 @@
 # jhuret1.github.io
 
-Binôme : Jean-Livio Akollor
+Trinome : Jean-Livio Akollor, Julien Huret, Dorian Labry
